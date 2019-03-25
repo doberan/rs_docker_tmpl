@@ -3,7 +3,7 @@
 ## Repository Clone
 
 ```
-$ git clone https://github.com/doberan/rust-environment.git
+$ git clone https://github.com/doberan/rs_docker_tmpl.git
 $ cd rust-environment
 ```
 
