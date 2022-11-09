@@ -2,20 +2,20 @@
 
 ## Repository Clone
 
-```
-$ git clone https://github.com/doberan/rs_docker_tmpl.git
-$ cd rust-environment
+```bash
+git clone https://github.com/doberan/rs_docker_tmpl.git <PROJECT_NAME>
+cd <PROJECT_NAME>
 ```
 
 ## entry docker container
 
-```
-$ make run
+```bash
+make run NAME=<CONTAINER_NAME>
 ```
 
 ## compile rustfile
 
-```
-$ cd /src
-$ rustc main.rs
+```bash
+cd /src
+rustc main.rs
 ```
